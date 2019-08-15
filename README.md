@@ -6,6 +6,7 @@ Objective: To build and train a convolution neural network for the optical chara
 -
 Running The Program
 -
+Just Extract the Program.rar folder first.
 It was developed using Pycharm Edu so you can download the program folder and open the project using PyCharm. Since it contains the virtual environment of all the required dependencies.
 
 Files Description:
